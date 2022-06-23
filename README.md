@@ -1,5 +1,5 @@
 # **Hi there 👋**
-hi, i'm Kirill Serebrykov from Ukraine city Kharkov.Frontend dev 
+hi, i'm Kirill Serebrykov from Ukraine city Kharkiv.Frontend dev 
 
 ## Tech Stack 
 <div>
